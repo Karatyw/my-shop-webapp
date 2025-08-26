@@ -1,0 +1,7 @@
+[
+{"name":"Яблоки","price":50,"category":"Фрукты"},
+{"name":"Бананы","price":30,"category":"Фрукты"},
+{"name":"Хлеб","price":25,"category":"Выпечка"},
+{"name":"Молоко","price":60,"category":"Напитки"},
+{"name":"Шоколад","price":90,"category":"Сладости"}
+]
